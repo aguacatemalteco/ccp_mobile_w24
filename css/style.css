@@ -15,6 +15,10 @@ a:visited {
     color:#3f6455;
 }
 
+img {
+    border: 2px solid #320e3b;
+}
+
 .skip {
     position: absolute;
     left: -10000px;
