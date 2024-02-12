@@ -1,6 +1,6 @@
 body {
     font-family: Verdana, Arial, Times, sans-serif;
-    font-size: 75%;
+    font-size: 85%;
     line-height: 150%;
     margin: 5%;
     color: #320e3b;
@@ -57,7 +57,7 @@ h2 {
 
 h3 {
     font-family: Verdana, Arial, sans-serif;
-    font-size: 150%;
+    font-size: 125%;
     font-weight: bold;
     color: #ffffff;
     background-color: #3f6455;
@@ -89,7 +89,7 @@ nav li {
     text-transform: uppercase;
     font-size: 100%;
     font-weight: normal;
-    width: 20%;
+    width: 21%;
     padding: 2% 0;
     margin: 0 1.5%;
     border: 1.5px solid #3f6455;
