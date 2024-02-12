@@ -5,7 +5,6 @@ body {
     margin: 5%;
     color: #320e3b;
     background-color: #d1b7d8;
-    text-align: justify;
 }
 
 a {
@@ -180,7 +179,6 @@ footer {
     height: auto;
     background-color: #ab8db4;
     gap: 2%;
-    text-align: justify;
 }
 
 .recipe h2 {
@@ -235,7 +233,6 @@ footer {
     height: auto;
     background-color: #ab8db4;
     gap: 2%;
-    text-align: justify;
 }
 
 .destination h2 {
