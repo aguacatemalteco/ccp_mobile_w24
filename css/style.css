@@ -153,6 +153,7 @@ footer {
 .pet p:last-of-type {
     grid-area: 4/1/5/-1;
     overflow: scroll;
+    tabindex 0;
 }
 
 .likes {
